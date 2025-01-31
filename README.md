@@ -1,10 +1,5 @@
-## MNR (MongoDB, Node.js, React.js)
+## MERN Full Stack Web app Project
 
-Video Course (recorded August 2022): **[samer.dev/mnr](https://samer.dev/mnr)**
-
-For an up-to-date development environment configuration guide: **[samer.dev/reactful-ts](https://samer.dev/reactful-ts)**
-
-For general help: **[jscomplete.com/help](https://jscomplete.com/help)**
 
 ### Reference Text
 
